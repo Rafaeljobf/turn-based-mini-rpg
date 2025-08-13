@@ -10,5 +10,5 @@ Este projeto simula uma batalha entre dois personagens. Cada personagem tem atri
 * Programação Orientada a Objetos
 
 ## Próximos Passos
-* Implementar Herança para criar classes de personagens diferentes (Guerreiro, Mago).
+* Implementar habilidades nas classes restantes e otimizar sistema de turnos.
 * Adicionar aleatoriedade no cálculo de dano usando o módulo `random`.
