@@ -1,8 +1,8 @@
-from characters import Personagem
+from characters import Personagem, Paladino, Assassino, Arqueiro, Mago, Kamikaze
 
-p3 = Personagem('Paladino', 100, 5)
-p2 = Personagem('Assassino', 67, 8)
-p3 = Personagem('Arqueiro', 50, 10)
-p4 = Personagem('Mago', 70, 7)
-p5 = Personagem('Kamikaze', 10, 37)
-  
+p1 = Paladino('Paladino', 100, 8, 0)
+p2 = Assassino('Assassino', 67, 10)
+p3 = Arqueiro('Arqueiro', 50, 10)
+p4 = Mago('Mago', 100, 5, 100)
+p5 = Kamikaze('Kamikaze', 10, 37)
+
